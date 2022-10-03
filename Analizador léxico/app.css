@@ -1,0 +1,35 @@
+#syntax {
+    width: 100%;
+  }
+  textarea {
+    resize: none;
+  }
+  body {
+    background-color: #202124;
+  
+  }
+  #info:focus {
+    border: solid 5px red;
+  }
+  
+  #processedInfo {
+    background-color: white;
+  }
+  .custombtn {
+    margin-top: -5px;
+    width: 100%;
+  }
+  
+  h1 {
+    color: rgb(255, 255, 255, 0.7);
+  }
+
+  h2 {
+    color: rgb(255, 255, 255, 0.7);
+  }
+  
+  th,
+  td {
+    width: 300px;
+  }
+  
